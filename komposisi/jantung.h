@@ -2,5 +2,6 @@
 #define JANTUNG_H
 
 class jantung {
+public:
 
 };
